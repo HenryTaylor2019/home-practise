@@ -1,0 +1,29 @@
+h1, h2, h3 {
+    color:  black;
+}
+
+p{
+    color: black;
+}
+
+button {
+    background-color: grey;
+}
+body {
+
+    background: whitesmoke;
+}
+
+.featurette-image {
+   margin: auto;
+   width: 500px;
+   height: 500px;
+   object-fit: cover;
+}
+
+.btn {
+    background-color: tan;
+}
+
+* {cursor: url(http://cur.cursors-4u.net/nature/nat-10/nat927.ani), url(http://cur.cursors-4u.net/nature/nat-10/nat927.png), auto !important;} 
+
